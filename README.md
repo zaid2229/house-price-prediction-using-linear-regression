@@ -1,2 +1,3 @@
-# diabetes prediction using RandomForestClassifier
+house-price-prediction-using-linear-regression
+
  
